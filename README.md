@@ -60,6 +60,8 @@ Exclui um livro dos registros da biblioteca, especificado por ID.
 
 ## Tecnologias utilizadas:
 
-- Javascript;
+<div style="display: inline_block"></br>
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - Código
 
-- Insomnia (para realizar testes no programa e fazer os gif's).
+<div style="display: inline_block"></br>
+  <img align="center" alt="Js" height="55" width="55" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"> - Realizar testes no programa e fazer os gif's
