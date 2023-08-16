@@ -73,7 +73,7 @@ Link: http://localhost:3000/livros/2 (substitua o "2" pelo ID do livro que prete
   <div style="display: inline_block"></br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Js" height="50" width="60" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
+  <img align="center" alt="Js" height="55" width="55" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
           
           
 </div>
