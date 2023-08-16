@@ -17,14 +17,14 @@ Sistema de gerenciamento de uma biblioteca física com operações CRUD, desenvo
 
 São listados todos os livros da biblioteca.
 
-![](./imagens/buscar-livros.gif)
+![](./imagens/listar-Livros.gif)
 
 
 ## Buscar um livro:
 
 Encontra um determinado livro, pela ID.
 
-![](./imagens/listar-Livros.gif)
+![](./imagens/buscar-livros.gif)
 
 
 ## Adicionar novo livro:
